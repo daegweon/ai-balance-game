@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AI 밸런스 게임 월드컵 | 당신의 선택은?",
-  description: "AI가 생성하는 킹받는 난제들! 최고의 밸런스 게임을 토너먼트로 즐겨보세요.",
+  title: "AI 이상형 월드컵 | 당신의 선택은?",
+  description: "AI가 실시간으로 생성하는 다양한 주제의 이상형 월드컵을 즐겨보세요.",
   icons: {
     icon: "/favicon.ico",
   },
